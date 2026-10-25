@@ -14,7 +14,7 @@ icon.filename = %(source.dir)s/icon.png
 services = Reminder:service.py:foreground
 
 android.permissions = POST_NOTIFICATIONS,FOREGROUND_SERVICE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK
-android.api = 34
+android.api = 33
 android.minapi = 24
 android.archs = arm64-v8a
 android.accept_sdk_license = True
